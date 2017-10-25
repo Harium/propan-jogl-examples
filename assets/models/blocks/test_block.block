@@ -1,0 +1,1 @@
+{"id": "stone", v:1, rows:1, columns:1, height:1, "objects":[{path:"stone/stone.obj", transform:[1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]}]}
